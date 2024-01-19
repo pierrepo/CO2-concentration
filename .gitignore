@@ -1,3 +1,9 @@
+# Jupyter notebook HTML exports
+*.html
+
+# Data files
+*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
