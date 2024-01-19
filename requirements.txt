@@ -1,0 +1,39 @@
+numpy
+matplotlib
+
+# Pandas and related libraries
+pandas
+# Read / write xlsx Excel files
+openpyxl
+# Read / write netCDF files
+xarray
+
+# Statistics
+scipy
+statsmodels
+
+# Jupyter Lab
+jupyterlab>=4
+ipywidgets
+
+# Linters and formaters
+black
+ruff
+
+# Bokeh
+# https://docs.bokeh.org/en/latest/docs/user_guide/output/jupyter.html#jupyterlab
+bokeh
+jupyter_bokeh
+
+# Plotly
+# https://plotly.com/python/getting-started/
+plotly
+
+# Requests
+# https://requests.readthedocs.io/en/latest/
+requests
+
+# Watermark
+# https://github.com/rasbt/watermark
+watermark
+
